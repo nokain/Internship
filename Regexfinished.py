@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
+DS2309
 
 
 #Write a Python program to replace all occurrences of a space, comma, or dot with a colon.
